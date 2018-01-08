@@ -1,2 +1,2 @@
 # ClickCounter
-My first iOS app. Counts button clicks. This is a project for the Intro to iOS App Development Course from Udacity.
+Counts button clicks. This is a project for the UIKit Fundamentals Course from Udacity.
